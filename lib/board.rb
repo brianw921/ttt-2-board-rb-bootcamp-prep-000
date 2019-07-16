@@ -1,2 +1,2 @@
 # Define the variable board below.
-board = Array.new() {Array.new [" "]}
+board = Array.new("") {Array.new [" "]}
